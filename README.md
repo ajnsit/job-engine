@@ -1,4 +1,4 @@
-# Parallel Task Engine
+# Job Engine
 
 An extremely simple parallel task execution engine in Haskell that uses STM for safe concurrency.
 
